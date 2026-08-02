@@ -88,7 +88,7 @@ OpenAI Codex was used as a drafting and editing collaborator: it helped interpre
 
 ## Entrant information
 
-- Name: [participant must complete]
+- Name: Ren Yi
 - Age category: Open
-- School or organization (if any): [participant must complete or write Independent]
-- Contact email: [participant must complete]
+- School or organization (if any): Independent
+- Contact email: yijiezip@gmail.com
