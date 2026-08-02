@@ -14,3 +14,7 @@ Install dependencies with `python3 -m pip install -r requirements.txt`, then run
 before upload to recheck the 2,500-word entry
 limit, 300-word rationale limit, AI disclosure, PDF presence, and personal-field
 boundary.
+
+The generated PDF includes a vector map of the three classroom spaces and their
+shared data boundary. The diagram is built directly with ReportLab, so it stays
+sharp and reproducible without an external image asset.
