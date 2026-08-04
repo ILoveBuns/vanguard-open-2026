@@ -6,8 +6,12 @@
 - `entry.md` includes the work, required sub-300-word rationale, AI disclosure,
   and entrant information.
 
-The remaining boundary is personal review/authorship confirmation and final submission.
-AI use is explicitly disclosed and the included disclosure must not be removed.
+The official entrant portal was rechecked on 2026-08-04 and shows
+`Entry submitted ✓` for **The Classroom with No Attention Score**. It records a
+submission date of 2026-08-02 and last update of 2026-08-03. Keep the submitted
+artifact and any linked resources available through the announced results date,
+2026-10-03. AI use is explicitly disclosed and the disclosure must not be
+removed from any later update.
 
 Install dependencies with `python3 -m pip install -r requirements.txt`, then run
 `python3 build_pdf.py` to regenerate the PDF. Run `python3 validate_package.py`
