@@ -25,3 +25,6 @@ sharp and reproducible without an external image asset.
 
 `FINALIST_QA_PREP.md` contains a private ten-minute authorship and reasoning interview brief. It is
 derived from the frozen entry and does not alter the submitted PDF.
+`RESULT_RESPONSE_CHECKLIST.md` defines the official-result verification, Q&A, secure award
+acceptance, receipt, and no-award archive branches so that no email or screenshot alone is treated
+as proof of winning or payment.
